@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently in my last semester at Orange Coast College
+- 🔭 I’m currently in my last semester at Orange Coast College!
 - 🌱 I’m currently learning Javascript, React.JS, Svelte.
-- 📫 How to reach me: ayushmaan.puri18@gmail.com
+- 📫 Reach out to me through my email: ayushmaan.puri18@gmail.com
 - 😄 Pronouns: he/him
+- ⚡ Fun fact: Addicted to chipotle.
+- 🔗 Check out my linkedin: https://www.linkedin.com/in/aypuri/
