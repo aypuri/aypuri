@@ -1,4 +1,4 @@
-### Hi there! I'm Ayushmaan (Aa-yoosh-maan), Welcome to my GitHub :)
+### Hi there! I'm Ayushmaan (Aa-yoosh-maan), welcome to my GitHub :)
 
 <!--
 **aypuri/aypuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
