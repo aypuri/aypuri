@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently in my last semester at Orange Coast College
+- 🔭 I’m in my last semester at Orange Coast College
 - 🌱 I’m currently learning Javascript, React.JS, Svelte.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
