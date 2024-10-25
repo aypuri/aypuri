@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m in my last semester at Orange Coast College
-- 🌱 I’m currently learning Javascript, React.JS, Svelte.
+- 🔭 I’m a Junior at UC San Diego studying Computer Engineering
+- 🌱 I’m currently learning C, LaTeX, and Javascript.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ayushmaan.puri18@gmail.com
@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently in my last semester at Orange Coast College!
-- 🌱 I’m currently learning Javascript, React.JS, Svelte.
-- 📫 Reach out to me through my email: ayushmaan.puri18@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Addicted to chipotle.
+- 🔭 I’m a Junior at UC San Diego studying Computer Engineering
+- 🌱 I’m currently learning C, LaTeX, and Javascript.
+- 📫 Reach out to me through my email: ayushmaan.puri18@gmail.com. I'm always looking for exciting research projects to collaborate on!
 - 🔗 Check out my linkedin: https://www.linkedin.com/in/aypuri/
