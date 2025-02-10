@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m a Junior at UC San Diego studying Computer Engineering
-- 🌱 I’m currently learning C++, Python, and Javascript.
+- 🌱 I’m currently learning C++, MATLAB, and Verilog.
 - 📫 Reach out to me through my email: ayushmaan.puri18@gmail.com. I'm always looking for exciting research projects to collaborate on!
 - 🔗 Check out my linkedin: https://www.linkedin.com/in/aypuri/
