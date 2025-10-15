@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m a Junior at UC San Diego studying Computer Engineering
-- 🌱 I’m currently learning C++, MATLAB, and Verilog.
+- 🔭 I’m a Senior at UC San Diego studying Computer Engineering
+- 🌱 I’m currently learning about Signals+Systems, Embedded Architecture, and SystemVerilog.
 - 📫 Reach out to me through my email: ayushmaan.puri18@gmail.com. I'm always looking for exciting research projects to collaborate on!
 - 🔗 Check out my linkedin: https://www.linkedin.com/in/aypuri/
